@@ -30,14 +30,24 @@ Java | Vue.js | MySQL | Spring Boot | MyBatis | Html/CSS/JavaScript| Redis |
 <br/>
 
 ### 3. 웹소켓을 이용한 실시간 충전상태 알림
+![image](https://github.com/user-attachments/assets/9049c677-654d-4f3e-bae7-a751bc98894e)
+![image](https://github.com/user-attachments/assets/315e4a48-990e-4e81-8a79-999260ae18bc)
+![image](https://github.com/user-attachments/assets/e629d335-58ab-42a2-b550-cc24ad1bbeb9)
+![image](https://github.com/user-attachments/assets/512996c1-97d0-48ea-8418-fe3d27a7c220)
+![image](https://github.com/user-attachments/assets/f25c9777-afb9-4f0b-8a01-d765416a0556)
 
-### 4. 충전기 개별의 예약 및 결제 페이지
+
+### 4. 충전기 개별 예약 및 결제 페이지
+![image](https://github.com/user-attachments/assets/23db8725-ac72-4117-9d0a-f4ab75ddc373)
+![image](https://github.com/user-attachments/assets/d26944f6-da19-4a14-b60e-3f29983dd328)
+
+
 
 <br>
 
 ## 배운 점
->  프로젝트가 끝난뒤 각자 써봅시다.
+>  회원 관련 기능과 보안 기능을 맡으면서 예외처리 항목에 대해 많은 생각을 할 수 있었습니다.
 <br>
 
 ## 아쉬운 점
-> 프로젝트가 끝난뒤 각자 써봅시다.
+> 실제 현대나 기아 전기차 회원이었으면 관련 API로 연동하여 개발을 할 수 있었을텐데 그렇지 못해 아쉽습니다.
